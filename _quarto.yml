@@ -1,21 +1,57 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "confluence-website"
+  title: "Confluence Analytics"
+  description: "Boutique consultancy for ecological and agricultural management"
+  site-url: "https://confluenceanalytics.com.au"
+  favicon: "logo-01.png"
+  
   navbar:
+    title: false
+    logo: "logo_words-01.png"
+    logo-alt: "Confluence Analytics Logo"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Services  
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: mailto:info@confluenceanalytics.com.au
+        text: Email
+  
+  page-footer:
+    left: "© 2026 Confluence Analytics. All rights reserved."
+    center: "Professional ecological and agricultural management consulting"
+    right:
+      - icon: envelope
+        href: mailto:info@confluenceanalytics.com.au
 
 format:
   html:
     theme:
       - cosmo
-      - brand
+      - styles.css
     css: styles.css
     toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    number-sections: false
+    
+    # SEO and meta
+    page-layout: full
+    title-block-banner: true
+    
+    # Code
+    code-fold: true
+    code-tools: false
 
 
 

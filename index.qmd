@@ -1,7 +1,87 @@
 ---
 title: "Confluence Analytics"
+subtitle: "Boutique Consultancy for Ecological and Agricultural Management"
+format:
+  html:
+    title-block-banner: "#1e3a8a"
+    title-block-banner-color: "white"
 ---
 
-This is a Quarto website.
+::: {.hero-section}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Confluence Analytics](logo_words-01.png){.hero-logo width="300" fig-alt="Confluence Analytics Logo"}
+
+## Transforming Data into Actionable Insights for Sustainable Management
+
+**Confluence Analytics** specializes in ecological and agricultural management consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex ecological science and practical management decisions.
+
+:::
+
+::: {.grid}
+::: {.g-col-md-8}
+
+## What Sets Us Apart
+
+::: {.grid}
+
+::: {.g-col-md-6 .feature-box}
+### **Mechanistic Understanding**
+We don't just identify patterns — we understand the underlying mechanisms driving system responses. This approach enables more robust projections under different scenario conditions.
+:::
+
+::: {.g-col-md-6 .feature-box}
+### **Scale Expertise**  
+From local watersheds to regional ecosystems, we excel at modeling complex outcomes across large, heterogeneous systems while maintaining scientific rigor.
+:::
+
+::: {.g-col-md-6 .feature-box}
+### **Actionable Insights**
+Our outputs are scientifically robust yet accessible — designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.
+:::
+
+::: {.g-col-md-6 .feature-box}
+### **Real-World Focus**
+We ensure our analysis addresses genuine needs from real people, delivering solutions that make a measurable difference in the field.
+:::
+
+:::
+
+:::
+::: {.g-col-md-4}
+![Agricultural Landscape](https://via.placeholder.com/400x300/1e3a8a/ffffff?text=Agricultural+Systems){.section-image fig-alt="Agricultural landscape showing sustainable farming practices"}
+
+![Water Management](https://via.placeholder.com/400x250/2563eb/ffffff?text=Water+Management){.section-image fig-alt="Water management and monitoring systems"}
+:::
+:::
+
+## Our Approach
+
+::: {.grid}
+::: {.g-col-md-8}
+
+At **Confluence Analytics**, we combine:
+
+- **Advanced data acquisition and analysis** techniques
+- **Ecological response modeling** at multiple scales
+- **Scenario modeling** for robust future projections
+- **Clear communication** of complex scientific findings
+
+:::
+::: {.g-col-md-4}
+![Data Analysis](https://via.placeholder.com/400x280/3b82f6/ffffff?text=Data+Analysis){.section-image fig-alt="Advanced data analysis and modeling techniques"}
+:::
+:::
+
+::: {.callout-note appearance="simple"}
+## Ready to Transform Your Management Strategy?
+
+Whether you're managing agricultural landscapes, conserving biodiversity, or optimizing water resources, we help you make informed decisions backed by solid science.
+
+[Learn More About Our Services](services.qmd){.btn .btn-primary .btn-lg role="button"}
+:::
+
+---
+
+### Trusted by Management Agencies and Agricultural Operations
+
+We work with diverse clients who need scientifically-grounded solutions for complex environmental challenges. Our interdisciplinary approach ensures that ecological insights translate into practical management strategies.

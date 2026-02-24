@@ -1,5 +1,102 @@
 ---
-title: "About"
+title: "About Confluence Analytics"
+subtitle: "Where ecological science meets practical management solutions"
 ---
 
-About this site
+::: {.grid}
+::: {.g-col-md-8}
+## Our Mission
+
+**Confluence Analytics** was founded on the principle that ecological science should directly inform and improve real-world management decisions. We specialize in translating complex ecological data into clear, actionable insights that drive sustainable outcomes.
+:::
+::: {.g-col-md-4}
+![Environmental Monitoring](https://via.placeholder.com/400x300/1e3a8a/ffffff?text=Environmental+Monitoring){.section-image fig-alt="Environmental monitoring and field research"}
+:::
+:::
+
+## Expertise & Background
+
+Our consultancy leverages extensive experience in:
+
+### **Data Science & Analysis**
+- Advanced data acquisition methodologies
+- Statistical modeling and analysis
+- Big data processing for ecological systems
+- Quality assurance and validation protocols
+
+### **Ecological Response Modeling**
+- Mechanistic understanding of ecosystem processes
+- Multi-scale ecological modeling
+- Species and habitat response analysis  
+- Population dynamics and community ecology
+
+### **Water Management Systems**
+- Hydrological modeling and analysis
+- Watershed management strategies
+- Water quality assessment and monitoring
+- Aquatic ecosystem health evaluation
+
+### **Sustainability & Biodiversity**
+- Conservation planning and implementation
+- Biodiversity impact assessment
+- Ecosystem service valuation
+- Sustainable agriculture practices
+
+::: {.grid}
+::: {.g-col-md-6}
+![Biodiversity Assessment](https://via.placeholder.com/350x250/2563eb/ffffff?text=Biodiversity+Research){.section-image fig-alt="Biodiversity assessment in natural ecosystems"}
+:::
+::: {.g-col-md-6}
+![Watershed Management](https://via.placeholder.com/350x250/3b82f6/ffffff?text=Watershed+Systems){.section-image fig-alt="Watershed management and restoration"}
+:::
+:::
+
+## Our Philosophy
+
+::: {.callout-important appearance="simple"}
+### Science for Real People, Real Problems
+
+We believe that the best ecological science is that which addresses genuine needs and creates measurable positive impacts. Our approach emphasizes:
+
+- **Mechanistic understanding** over pattern detection alone
+- **Robust projections** under varying scenario conditions  
+- **Clear communication** to diverse stakeholders
+- **Practical applicability** in real-world settings
+:::
+
+## Target Sectors
+
+### Management Agencies
+We partner with government agencies, NGOs, and regulatory bodies to develop science-based management strategies for:
+- Protected area management
+- Environmental impact assessment
+- Policy development and implementation
+- Regulatory compliance monitoring
+
+### Agricultural Operations  
+We support farmers, ranchers, and agricultural companies in:
+- Sustainable production practices
+- Water use optimization
+- Soil health management
+- Biodiversity conservation on working lands
+
+### Research Institutions
+Collaborating with universities and research organizations on:
+- Applied ecological research
+- Technology transfer and implementation
+- Capacity building and training
+- Publication and dissemination
+
+## What Makes Us Different
+
+**Heterogeneous Systems Expertise**: We excel at working across varied landscapes, from agricultural mosaics to complex natural systems, understanding how management actions scale up and interact.
+
+**Mechanism-Based Approach**: Rather than relying solely on correlative relationships, we dig deep to understand *why* systems respond the way they do, enabling more reliable predictions.
+
+**Stakeholder-Centered Design**: Every analysis is designed with the end user in mind, ensuring outputs are not just scientifically sound but genuinely useful for decision-making.
+
+**Scale Integration**: We seamlessly work across scales, from plot-level studies to landscape and regional analyses, maintaining coherence and relevance throughout.
+
+---
+
+*Ready to see how our approach can benefit your organization? [Get in touch](contact.qmd) to discuss your specific needs.*

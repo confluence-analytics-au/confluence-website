@@ -1,0 +1,140 @@
+---
+title: "Contact Us"
+subtitle: "Let's discuss how we can support your management objectives"
+---
+
+::: {.grid}
+::: {.g-col-md-8}
+## Get In Touch
+
+We'd love to hear about your project and discuss how **Confluence Analytics** can help you achieve your ecological and agricultural management goals.
+
+::: {.grid}
+
+::: {.g-col-md-6}
+
+### **Primary Contact**
+
+**Email**: [info@confluenceanalytics.com.au](mailto:info@confluenceanalytics.com.au)
+
+**Response Time**: We typically respond to inquiries within 24 hours during business days.
+
+### **Phone Consultation**
+
+**Schedule a Call**: [Contact us via email](mailto:info@confluenceanalytics.com.au) to arrange a phone or video consultation.
+
+**Time Zones**: We work with clients across multiple time zones and can accommodate flexible scheduling.
+
+:::
+
+::: {.g-col-md-6}
+
+### **Service Areas**
+
+**Primary Base**: 
+- Australia (all states and territories)
+
+**International Services**: 
+- North America and other international projects
+- Remote analytical and modeling services globally
+
+**Field Work**: We coordinate field activities across Australia and partner with local specialists internationally.
+
+:::
+::: {.g-col-md-4}
+![Australian Landscape](https://via.placeholder.com/350x400/1e3a8a/ffffff?text=Australian+Operations){.section-image fig-alt="Australian landscapes and field operations"}
+:::
+:::
+
+:::
+
+:::
+
+## How We Work
+
+### Initial Consultation
+1. **Discovery Call**: 30-minute discussion of your needs and objectives
+2. **Scope Development**: Collaborative definition of project parameters
+3. **Proposal**: Detailed proposal with timeline, deliverables, and investment
+
+### Project Engagement
+- **Kickoff Meeting**: Project initiation and stakeholder alignment
+- **Regular Updates**: Progress reports and interim results
+- **Collaborative Review**: Stakeholder feedback integration
+- **Final Delivery**: Comprehensive results and implementation support
+
+### Ongoing Partnership
+- **Follow-up Support**: Questions and clarification after project completion
+- **Monitoring Programs**: Long-term data collection and analysis
+- **Adaptive Management**: Ongoing refinement based on results
+
+## Types of Inquiries
+
+::: {.callout-note appearance="simple"}
+### **Research & Analysis Projects**
+- Ecological assessments and monitoring
+- Agricultural sustainability analysis  
+- Water resource management studies
+- Biodiversity conservation planning
+:::
+
+::: {.callout-note appearance="simple"}
+### **Data Analysis & Modeling**
+- Statistical analysis of existing datasets
+- Predictive modeling and scenario analysis
+- Data management system design
+- Reporting and visualization
+:::
+
+::: {.callout-note appearance="simple"}
+### **Training & Capacity Building**
+- Workshop development and delivery
+- Technical training programs
+- Knowledge transfer initiatives
+- Collaborative research projects
+:::
+
+::: {.callout-note appearance="simple"}
+### **Partnership Opportunities**
+- Long-term consulting relationships
+- Research collaboration
+- Subcontracting arrangements
+- Joint proposal development
+:::
+
+## What to Include in Your Inquiry
+
+To help us understand your needs and provide the most relevant response, please include:
+
+**Project Background**
+- Brief description of your organization and objectives
+- Current challenges or opportunities you're addressing
+- Geographic scope and timeline considerations
+
+**Specific Needs**  
+- Type of analysis or services you're considering
+- Available data and resources
+- Desired outcomes and applications
+
+**Logistics**
+- Preferred communication methods
+- Timeline and scheduling constraints
+- Budget considerations (if known)
+
+## Professional References
+
+We're happy to provide references from previous clients upon request. Our work spans government agencies, agricultural operations, research institutions, and non-profit organizations.
+
+---
+
+::: {.callout-important appearance="simple"}
+## Ready to Start the Conversation?
+
+Whether you have a specific project in mind or are exploring possibilities for collaboration, we welcome the opportunity to discuss how our expertise can support your goals.
+
+**[Send us an email](mailto:info@confluenceanalytics.com.au)** to get the conversation started.
+:::
+
+---
+
+*Confluence Analytics • Professional Ecological and Agricultural Management Consulting*

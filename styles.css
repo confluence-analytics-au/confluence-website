@@ -1,1 +1,323 @@
-/* css styles */
+/*-- scss:rules --*/
+
+/* Confluence Analytics - Professional Styling */
+
+/* Brand Colors - Professional Blue Theme */
+:root {
+  --primary-blue: #1e3a8a;
+  --accent-blue: #2563eb;
+  --light-blue: #3b82f6;
+  --soft-gray: #f8fafc;
+  --text-dark: #1e293b;
+  --text-light: #475569;
+  --logo-contrast: #ffffff;
+}
+
+/* Typography */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-blue);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--primary-blue);
+  padding-bottom: 0.5rem;
+}
+
+/* Hero Section */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-blue) 100%);
+  color: white;
+  padding: 3rem 2rem;
+  margin: -1rem -2rem 3rem -2rem;
+  border-radius: 0 0 1rem 1rem;
+  text-align: center;
+}
+
+.hero-section h2 {
+  color: white;
+  border-bottom: none;
+  margin-bottom: 1rem;
+  font-size: 2.2rem;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+/* Feature Boxes */
+.feature-box {
+  background: var(--soft-gray);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--primary-blue);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+}
+
+.feature-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(30, 58, 138, 0.1);
+}
+
+.feature-box h3 {
+  margin-top: 0;
+  color: var(--primary-blue);
+  font-size: 1.3rem;
+}
+
+/* Professional Image Styling */
+.section-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.icon-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.icon-header img {
+  width: 32px;
+  height: 32px;
+  margin-right: 0.75rem;
+}
+
+.service-card {
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.75rem;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+  box-shadow: 0 4px 16px rgba(30, 58, 138, 0.08);
+}
+
+/* Navigation */
+.navbar-brand {
+  font-weight: 700;
+  color: var(--primary-blue) !important;
+  font-size: 1.4rem;
+}
+
+.navbar-brand img {
+  height: 40px;
+  width: auto;
+  max-width: 200px;
+}
+
+.navbar-nav .nav-link {
+  color: var(--text-dark) !important;
+  font-weight: 500;
+  margin: 0 0.5rem;
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--primary-blue) !important;
+}
+
+/* Hero Logo */
+.hero-logo {
+  display: block;
+  margin: 0 auto 2rem auto;
+  max-width: 100%;
+  height: auto;
+  /* Removed white filter to preserve logo colors */
+}
+
+@media (max-width: 768px) {
+  .hero-logo {
+    width: 250px;
+    margin-bottom: 1.5rem;
+  }
+  
+  .navbar-brand img {
+    height: 35px;
+  }
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--primary-blue);
+  border-color: var(--primary-blue);
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--light-blue);
+  border-color: var(--light-blue);
+  transform: translateY(-1px);
+}
+
+/* Callouts */
+.callout {
+  border-radius: 0.5rem;
+  margin: 2rem 0;
+}
+
+.callout-note {
+  border-left-color: var(--accent-blue);
+}
+
+.callout-important {
+  border-left-color: var(--primary-blue);
+  background-color: rgba(30, 58, 138, 0.05);
+}
+
+.callout-tip {
+  border-left-color: var(--light-blue);
+}
+
+/* Grid Improvements */
+.grid {
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Links */
+a {
+  color: var(--accent-blue);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--primary-green);
+}
+
+/* Title Blocks */
+.title-block-banner {
+  color: white !important;
+}
+
+.title-block-banner .title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.title-block-banner .subtitle {
+  font-size: 1.3rem;
+  opacity: 0.9;
+}
+
+/* Footer */
+.page-footer {
+  background-color: var(--primary-blue);
+  color: white;
+  margin-top: 4rem;
+  padding: 2rem 0;
+}
+
+.page-footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.page-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Content Spacing */
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 2rem 1rem;
+    margin: -1rem -1rem 2rem -1rem;
+  }
+  
+  .hero-section h2 {
+    font-size: 1.8rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.6rem;
+  }
+  
+  .feature-box {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Table Styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: var(--soft-gray);
+  font-weight: 600;
+  color: var(--primary-blue);
+}
+
+/* Code Blocks */
+pre {
+  background-color: var(--soft-gray);
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  color: var(--accent-blue);
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+}
+
+/* Print Styles */
+@media print {
+  .navbar, .page-footer {
+    display: none;
+  }
+  
+  .hero-section {
+    background: var(--primary-blue) !important;
+    -webkit-print-color-adjust: exact;
+  }
+}

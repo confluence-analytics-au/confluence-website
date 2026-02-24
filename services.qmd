@@ -1,0 +1,180 @@
+---
+title: "Our Services"
+subtitle: "Comprehensive ecological and agricultural management solutions"
+---
+
+![Service Overview](https://via.placeholder.com/800x300/1e3a8a/ffffff?text=Ecological+%26+Agricultural+Services){.section-image width="100%" fig-alt="Overview of ecological and agricultural management services"}
+
+## Core Service Areas
+
+### **Water Management & Hydrology**
+
+::: {.grid}
+::: {.g-col-md-8}
+**Watershed Assessment & Planning**
+- Hydrological modeling and flow analysis
+- Water quality monitoring and assessment
+- Watershed restoration planning
+- Regulatory compliance support
+
+**Irrigation & Water Use Optimization**
+- Precision irrigation system design
+- Water use efficiency analysis
+- Drought planning and risk assessment
+- Conservation strategy development
+:::
+::: {.g-col-md-4}
+![Water Management](https://via.placeholder.com/300x200/2563eb/ffffff?text=Water+Systems){.section-image fig-alt="Water management and hydrological systems"}
+:::
+:::
+
+### **Agricultural Sustainability**
+
+::: {.grid}
+::: {.g-col-md-4}
+![Sustainable Agriculture](https://via.placeholder.com/300x200/3b82f6/ffffff?text=Sustainable+Farming){.section-image fig-alt="Sustainable agricultural practices and soil management"}
+:::
+::: {.g-col-md-8}
+**Sustainable Production Systems**
+- Soil health assessment and improvement
+- Crop rotation and diversification strategies
+- Integrated pest management planning
+- Carbon sequestration potential analysis
+
+**Precision Agriculture Solutions**
+- Remote sensing and GIS applications
+- Yield mapping and analysis
+- Variable rate application strategies
+- Economic optimization modeling
+:::
+:::
+
+### **Biodiversity & Conservation**
+
+**Habitat Assessment & Management**
+- Biodiversity surveys and monitoring
+- Habitat suitability modeling
+- Species response analysis
+- Conservation prioritization
+
+**Ecosystem Services Valuation**
+- Economic valuation of natural resources
+- Ecosystem service mapping
+- Payment for ecosystem services design
+- Natural capital accounting
+
+### **Data Analysis & Modeling**
+
+**Ecological Response Modeling**
+- Statistical and mechanistic modeling
+- Scenario analysis and projections
+- Uncertainty quantification
+- Model validation and testing
+
+**Data Management & Analytics**
+- Database design and management
+- Automated monitoring systems
+- Quality assurance protocols
+- Reporting and visualization
+
+## Specialized Capabilities
+
+### Large-Scale System Analysis
+We excel at working across heterogeneous landscapes, integrating data from multiple sources to understand system-wide patterns and responses. Our expertise includes:
+
+- **Multi-scale integration**: From plot to landscape to regional scales
+- **Cross-system analysis**: Agricultural, natural, and mixed-use landscapes  
+- **Temporal dynamics**: Long-term trends and short-term variability
+- **Spatial heterogeneity**: Accounting for landscape complexity
+
+### Scenario Modeling & Projections
+Our mechanistic approach enables robust projections under changing conditions:
+
+- **Climate change impacts**: Temperature, precipitation, and extreme events
+- **Management scenarios**: Alternative practices and policies
+- **Land use changes**: Development, conservation, and restoration
+- **Economic scenarios**: Market conditions and policy changes
+
+### Stakeholder Engagement & Communication
+We specialize in making complex science accessible and actionable:
+
+- **Technical reporting**: Peer-reviewed quality for scientific audiences
+- **Management summaries**: Clear, actionable insights for decision-makers
+- **Public presentations**: Engaging communication for diverse stakeholders
+- **Training & workshops**: Capacity building and knowledge transfer
+
+## Project Approach
+
+### 1. **Discovery & Planning**
+- Stakeholder consultation and needs assessment
+- Project scoping and methodology design
+- Timeline and deliverable planning
+- Risk assessment and mitigation
+
+### 2. **Data Collection & Analysis**  
+- Field surveys and monitoring setup
+- Remote sensing and geospatial analysis
+- Statistical and modeling analysis
+- Quality control and validation
+
+### 3. **Modeling & Interpretation**
+- Response model development
+- Scenario analysis and projections  
+- Uncertainty assessment
+- Results interpretation and validation
+
+### 4. **Reporting & Implementation**
+- Comprehensive technical reports
+- Management recommendations
+- Implementation planning
+- Follow-up monitoring design
+
+## Industries We Serve
+
+::: {.grid}
+
+::: {.g-col-md-4}
+### Government Agencies
+- Environmental protection agencies
+- Natural resource departments  
+- Agricultural extension services
+- Water management authorities
+:::
+
+::: {.g-col-md-4}  
+### Agricultural Sector
+- Farm operations and cooperatives
+- Agribusiness companies
+- Food processors and retailers
+- Agricultural technology firms
+:::
+
+::: {.g-col-md-4}
+### Non-Profit & Research
+- Conservation organizations
+- Research institutions
+- Environmental consultancies
+- International development agencies
+:::
+
+:::
+
+## Delivery Options
+
+**Consulting Projects**: Comprehensive analysis and recommendations for specific management challenges.
+
+**Monitoring Programs**: Long-term data collection and analysis for adaptive management.
+
+**Training & Capacity Building**: Workshops, training programs, and knowledge transfer initiatives.
+
+**Research Partnerships**: Collaborative research projects with academic and industry partners.
+
+---
+
+::: {.callout-tip appearance="simple"}
+## Ready to Get Started?
+
+Every project begins with understanding your specific needs and goals. Contact us to discuss how our expertise can support your management objectives.
+
+[Contact Us Today](contact.qmd){.btn .btn-primary role="button"}
+:::
