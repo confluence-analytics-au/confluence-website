@@ -1,6 +1,6 @@
 ---
 title: "Confluence Analytics"
-subtitle: "Boutique Consultancy for Ecological and Agricultural Management"
+subtitle: "Insights for a complex and changing world"
 format:
   html:
     title-block-banner: "#1e3a8a"
@@ -11,9 +11,9 @@ format:
 
 ![Confluence Analytics](logo_words-01.png){.hero-logo width="300" fig-alt="Confluence Analytics Logo"}
 
-## Transforming Data into Actionable Insights for Sustainable Management
+## Transforming Data and Models into Actionable Insights for Sustainable Management
 
-**Confluence Analytics** specializes in ecological and agricultural management consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex ecological science and practical management decisions.
+**Confluence Analytics** specializes in ecological and agricultural consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex science and practical management decisions.
 
 :::
 
@@ -26,17 +26,17 @@ format:
 
 ::: {.g-col-md-6 .feature-box}
 ### **Mechanistic Understanding**
-We don't just identify patterns — we understand the underlying mechanisms driving system responses. This approach enables more robust projections under different scenario conditions.
+We don't just identify patterns, we understand the underlying mechanisms driving system responses. This approach identifies the *why* and enables more robust projections under different scenarios.
 :::
 
 ::: {.g-col-md-6 .feature-box}
 ### **Scale Expertise**  
-From local watersheds to regional ecosystems, we excel at modeling complex outcomes across large, heterogeneous systems while maintaining scientific rigor.
+From local watersheds to regional farming systems and national ecosystems, we excel at modelling complex outcomes across large, heterogeneous systems while maintaining scientific rigour.
 :::
 
 ::: {.g-col-md-6 .feature-box}
 ### **Actionable Insights**
-Our outputs are scientifically robust yet accessible — designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.
+Our outputs are scientifically robust yet accessible, designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.
 :::
 
 ::: {.g-col-md-6 .feature-box}
@@ -48,9 +48,9 @@ We ensure our analysis addresses genuine needs from real people, delivering solu
 
 :::
 ::: {.g-col-md-4}
-![Agricultural Landscape](https://via.placeholder.com/400x300/1e3a8a/ffffff?text=Agricultural+Systems){.section-image fig-alt="Agricultural landscape showing sustainable farming practices"}
+![Water Management](images/steavenson.jpg){.section-image fig-alt="Water management and monitoring systems"}
 
-![Water Management](https://via.placeholder.com/400x250/2563eb/ffffff?text=Water+Management){.section-image fig-alt="Water management and monitoring systems"}
+![Agricultural Landscapes](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape showing sustainable farming practices"}
 :::
 :::
 
@@ -62,13 +62,13 @@ We ensure our analysis addresses genuine needs from real people, delivering solu
 At **Confluence Analytics**, we combine:
 
 - **Advanced data acquisition and analysis** techniques
-- **Ecological response modeling** at multiple scales
-- **Scenario modeling** for robust future projections
+- **Mechanistic response modelling** at multiple scales
+- **Scenario modelling** for robust projections of potential actions and future conditions 
 - **Clear communication** of complex scientific findings
 
 :::
 ::: {.g-col-md-4}
-![Data Analysis](https://via.placeholder.com/400x280/3b82f6/ffffff?text=Data+Analysis){.section-image fig-alt="Advanced data analysis and modeling techniques"}
+![Data Analysis](images/all_anaes.png){.section-image fig-alt="Advanced data analysis and modelling techniques"}
 :::
 :::
 

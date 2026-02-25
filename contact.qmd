@@ -36,7 +36,7 @@ We'd love to hear about your project and discuss how **Confluence Analytics** ca
 
 **International Services**: 
 - North America and other international projects
-- Remote analytical and modeling services globally
+- Remote analytical and modelling services globally
 
 **Field Work**: We coordinate field activities across Australia and partner with local specialists internationally.
 
@@ -79,9 +79,9 @@ We'd love to hear about your project and discuss how **Confluence Analytics** ca
 :::
 
 ::: {.callout-note appearance="simple"}
-### **Data Analysis & Modeling**
+### **Data Analysis & Modelling**
 - Statistical analysis of existing datasets
-- Predictive modeling and scenario analysis
+- Predictive modelling and scenario analysis
 - Data management system design
 - Reporting and visualization
 :::

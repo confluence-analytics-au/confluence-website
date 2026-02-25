@@ -20,18 +20,18 @@ Our consultancy leverages extensive experience in:
 
 ### **Data Science & Analysis**
 - Advanced data acquisition methodologies
-- Statistical modeling and analysis
+- Statistical modelling and analysis
 - Big data processing for ecological systems
 - Quality assurance and validation protocols
 
-### **Ecological Response Modeling**
+### **Ecological Response Modelling**
 - Mechanistic understanding of ecosystem processes
-- Multi-scale ecological modeling
+- Multi-scale ecological modelling
 - Species and habitat response analysis  
 - Population dynamics and community ecology
 
 ### **Water Management Systems**
-- Hydrological modeling and analysis
+- Hydrological modelling and analysis
 - Watershed management strategies
 - Water quality assessment and monitoring
 - Aquatic ecosystem health evaluation

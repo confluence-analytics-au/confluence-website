@@ -12,7 +12,7 @@ subtitle: "Comprehensive ecological and agricultural management solutions"
 ::: {.grid}
 ::: {.g-col-md-8}
 **Watershed Assessment & Planning**
-- Hydrological modeling and flow analysis
+- Hydrological modelling and flow analysis
 - Water quality monitoring and assessment
 - Watershed restoration planning
 - Regulatory compliance support
@@ -45,7 +45,7 @@ subtitle: "Comprehensive ecological and agricultural management solutions"
 - Remote sensing and GIS applications
 - Yield mapping and analysis
 - Variable rate application strategies
-- Economic optimization modeling
+- Economic optimization modelling
 :::
 :::
 
@@ -53,7 +53,7 @@ subtitle: "Comprehensive ecological and agricultural management solutions"
 
 **Habitat Assessment & Management**
 - Biodiversity surveys and monitoring
-- Habitat suitability modeling
+- Habitat suitability modelling
 - Species response analysis
 - Conservation prioritization
 
@@ -63,10 +63,10 @@ subtitle: "Comprehensive ecological and agricultural management solutions"
 - Payment for ecosystem services design
 - Natural capital accounting
 
-### **Data Analysis & Modeling**
+### **Data Analysis & Modelling**
 
-**Ecological Response Modeling**
-- Statistical and mechanistic modeling
+**Ecological Response Modelling**
+- Statistical and mechanistic modelling
 - Scenario analysis and projections
 - Uncertainty quantification
 - Model validation and testing
@@ -87,7 +87,7 @@ We excel at working across heterogeneous landscapes, integrating data from multi
 - **Temporal dynamics**: Long-term trends and short-term variability
 - **Spatial heterogeneity**: Accounting for landscape complexity
 
-### Scenario Modeling & Projections
+### Scenario Modelling & Projections
 Our mechanistic approach enables robust projections under changing conditions:
 
 - **Climate change impacts**: Temperature, precipitation, and extreme events
@@ -114,10 +114,10 @@ We specialize in making complex science accessible and actionable:
 ### 2. **Data Collection & Analysis**  
 - Field surveys and monitoring setup
 - Remote sensing and geospatial analysis
-- Statistical and modeling analysis
+- Statistical and modelling analysis
 - Quality control and validation
 
-### 3. **Modeling & Interpretation**
+### 3. **Modelling & Interpretation**
 - Response model development
 - Scenario analysis and projections  
 - Uncertainty assessment
