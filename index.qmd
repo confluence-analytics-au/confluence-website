@@ -1,26 +1,23 @@
 ---
-title: "Confluence Analytics"
-subtitle: "Insights for a complex and changing world"
 format:
   html:
-    title-block-banner: "#1e3a8a"
-    title-block-banner-color: "white"
+    title-block-banner: false
 ---
 
 ::: {.hero-section}
 
-![Confluence Analytics](logo_words-01.png){.hero-logo width="300" fig-alt="Confluence Analytics Logo"}
+![](logo_words-01.png){.hero-logo width="300" fig-alt="Confluence Analytics Logo"}
 
-## Transforming Data and Models into Actionable Insights for Sustainable Management
+## Insights for a complex and changing world
 
 **Confluence Analytics** specializes in ecological and agricultural consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex science and practical management decisions.
 
 :::
 
+## What Sets Us Apart
+
 ::: {.grid}
 ::: {.g-col-md-8}
-
-## What Sets Us Apart
 
 ::: {.grid}
 

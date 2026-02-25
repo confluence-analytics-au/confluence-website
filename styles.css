@@ -4,9 +4,9 @@
 
 /* Brand Colors - Professional Blue Theme */
 :root {
-  --primary-blue: #1e3a8a;
-  --accent-blue: #2563eb;
-  --light-blue: #3b82f6;
+  --primary-blue: #3b82f6;
+  --accent-blue: #60a5fa;
+  --light-blue: #93c5fd;
   --soft-gray: #f8fafc;
   --text-dark: #1e293b;
   --text-light: #475569;
@@ -43,8 +43,8 @@ h2 {
   background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-blue) 100%);
   color: white;
   padding: 3rem 2rem;
-  margin: -1rem -2rem 3rem -2rem;
-  border-radius: 0 0 1rem 1rem;
+  margin: 0rem 0rem 3rem 0rem;
+  border-radius: 1rem;
   text-align: center;
 }
 
@@ -125,9 +125,9 @@ h2 {
 }
 
 .navbar-brand img {
-  height: 40px;
+  height: 55px;
   width: auto;
-  max-width: 200px;
+  max-width: 250px;
 }
 
 .navbar-nav .nav-link {
@@ -157,7 +157,7 @@ h2 {
   }
   
   .navbar-brand img {
-    height: 35px;
+    height: 45px;
   }
 }
 
@@ -172,8 +172,8 @@ h2 {
 }
 
 .btn-primary:hover {
-  background-color: var(--light-blue);
-  border-color: var(--light-blue);
+  background-color: var(--accent-blue);
+  border-color: var(--accent-blue);
   transform: translateY(-1px);
 }
 
