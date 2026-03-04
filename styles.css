@@ -40,24 +40,100 @@ h2 {
 
 /* Hero Section */
 .hero-section {
-  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-blue) 100%);
-  color: white;
-  padding: 3rem 2rem;
+  background: var(--soft-gray);
+  padding: 0;
   margin: 0rem 0rem 3rem 0rem;
   border-radius: 1rem;
-  text-align: center;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
 }
 
-.hero-section h2 {
-  color: white;
+.hero-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 400px;
+}
+
+.hero-text-card {
+  background: white;
+  padding: 3rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1rem 0 0 1rem;
+}
+
+.hero-image-side {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0 1rem 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--soft-gray);
+}
+
+.hero-bg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  min-height: 400px;
+}
+
+.hero-logo {
+  width: 300px;
+  height: auto;
+  margin: 0 auto 1.5rem auto;
+  display: block;
+}
+
+.hero-text-card h2 {
+  color: var(--primary-blue);
   border-bottom: none;
   margin-bottom: 1rem;
   font-size: 2.2rem;
+  font-weight: 700;
+  text-align: center;
 }
 
-.hero-section p {
+.hero-text-card p {
+  color: var(--text-dark);
   font-size: 1.2rem;
   margin-bottom: 0;
+  line-height: 1.6;
+  text-align: center;
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .hero-content {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+  
+  .hero-text-card {
+    border-radius: 1rem 1rem 0 0;
+    padding: 2rem 1.5rem;
+  }
+  
+  .hero-image-side {
+    border-radius: 0 0 1rem 1rem;
+    min-height: 200px;
+  }
+  
+  .hero-logo {
+    width: 250px;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-text-card h2 {
+    font-size: 1.8rem;
+  }
+  
+  .hero-text-card p {
+    font-size: 1.1rem;
+  }
 }
 
 /* Feature Boxes */
@@ -86,12 +162,13 @@ h2 {
 .section-image {
   width: 100%;
   max-width: 400px;
-  height: auto;
+  height: 200px;
   border-radius: 0.75rem;
   margin: 1rem 0;
   box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   object-fit: cover;
+  object-position: center;
 }
 
 .section-image:hover {
@@ -99,17 +176,62 @@ h2 {
   box-shadow: 0 6px 20px rgba(59, 130, 246, 0.25);
 }
 
+/* Hero-sized image for key sections */
+.hero-image {
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  display: block;
+  box-shadow: 0 8px 24px rgba(59, 130, 246, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-image:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(59, 130, 246, 0.3);
+}
+
 /* Ensure images scale nicely in grids */
 .grid .section-image {
-  max-height: 250px;
+  height: 200px;
   width: 100%;
   object-fit: cover;
+  object-position: center;
+}
+
+/* Special handling for landscape/wide images */
+.section-image[src*="mdb_mgmt"] {
+  height: 180px;
+  object-fit: contain;
+  background: var(--soft-gray);
+}
+
+.section-image[src*="australia_rivers"] {
+  height: 180px;
+  object-fit: contain;
+  background: var(--soft-gray);
+}
+
+.section-image[src*="all_anaes"] {
+  height: 180px;
+  object-fit: contain;
+  background: var(--soft-gray);
 }
 
 @media (max-width: 768px) {
   .section-image {
-    max-height: 200px;
+    height: 150px;
     margin: 0.5rem 0;
+  }
+  
+  .hero-image {
+    height: 200px;
+    margin: 1.5rem auto;
+    max-width: 100%;
   }
 }
 
@@ -162,21 +284,7 @@ h2 {
   color: var(--primary-blue) !important;
 }
 
-/* Hero Logo */
-.hero-logo {
-  display: block;
-  margin: 0 auto 2rem auto;
-  max-width: 100%;
-  height: auto;
-  /* Removed white filter to preserve logo colors */
-}
-
 @media (max-width: 768px) {
-  .hero-logo {
-    width: 250px;
-    margin-bottom: 1.5rem;
-  }
-  
   .navbar-brand img {
     height: 45px;
   }
@@ -206,6 +314,7 @@ h2 {
 
 .callout-note {
   border-left-color: var(--accent-blue);
+  background-color: rgba(59, 130, 246, 0.05);
 }
 
 .callout-important {

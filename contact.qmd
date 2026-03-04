@@ -10,7 +10,7 @@ subtitle: "Let's discuss how we can support your management objectives"
 We'd love to discuss how **Confluence Analytics** can help you achieve your ecological and agricultural management goals whether you have a specific project in mind or are exploring possibilities for collaboration.
 :::
 ::: {.g-col-md-4}
-![Australian River Systems](images/australia_rivers.png){.section-image fig-alt="Australian river systems and water management"}
+![](images/australia_rivers.png){.section-image fig-alt="Australian river systems and water management"}
 :::
 :::
 
@@ -25,7 +25,7 @@ We'd love to discuss how **Confluence Analytics** can help you achieve your ecol
 **Location**: We are based in Eastern Australia, but work with clients across multiple time zones and can accommodate flexible scheduling.
 :::
 ::: {.g-col-md-4}
-![Water Management Projects](images/mdb_mgmt.png){.section-image fig-alt="Large-scale water and landscape management"}
+![](images/ag-landscape.jpg){.section-image fig-alt="Large-scale water and landscape management"}
 :::
 :::
 

@@ -5,7 +5,7 @@ subtitle: "Science for practical management solutions"
 
 ## Our Philosophy & Approach
 
-::: {.callout-important appearance="simple"}
+::: {.callout-note appearance="simple"}
 ### Science for Real People, Real Problems
 
 We believe that management of agricultural and natural systems and robust science go hand-in-hand. The best environmental science addresses genuine needs and creates measurable positive impacts, while providing a robust basis for decision making on-farm and in natural systems. Our approach emphasizes:
@@ -17,6 +17,8 @@ We believe that management of agricultural and natural systems and robust scienc
 - **Practical applicability** in real-world settings
 :::
 
+![](images/drone.jpg){.hero-image fig-alt="Advanced data analysis and environmental monitoring"}
+
 ## Who we are
 
 **Dr Galen Holt** is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.
@@ -24,7 +26,6 @@ We believe that management of agricultural and natural systems and robust scienc
 We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
 
 :::{.grid}
-
 :::{.g-col-md-8}
 ## Our Expertise 
 
@@ -52,12 +53,10 @@ We combine deep technical capabilities with specialized methodologies across key
 
 ::: {.g-col-md-4}
 ![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
-:::
-:::
 
-::: {.grid}
-::: {.g-col-md-6}
-![](images/drone.jpg){.section-image fig-alt="Watersheds and agriculture"}
+![](images/ag-coast.jpg){.section-image fig-alt="Agricultural landscape"}
+
+![](images/steavenson.jpg){.section-image fig-alt="Agricultural landscape"}
 :::
 :::
 
@@ -82,10 +81,9 @@ We support farmers, ranchers, and agricultural companies in:
 - **Scale Integration**: Models and outputs designed to capture variability across soils, climate, management, and ecological contexts
 :::
 ::: {.g-col-md-4}
-![](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
-:::
-::: {.g-col-md-4}
-![](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape"}
+![Water Management](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
+
+![Agricultural Systems](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape"}
 :::
 :::
 
