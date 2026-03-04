@@ -65,7 +65,7 @@ At **Confluence Analytics**, we combine:
 
 :::
 ::: {.g-col-md-4}
-![Data Analysis](images/all_anaes.png){.section-image fig-alt="Advanced data analysis and modelling techniques"}
+![Data and Modelling](images/all_anaes.png){.section-image fig-alt="Advanced data analysis and modelling techniques"}
 :::
 :::
 

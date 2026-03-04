@@ -1,53 +1,66 @@
 ---
 title: "About Confluence Analytics"
-subtitle: "Where ecological science meets practical management solutions"
+subtitle: "Science for practical management solutions"
 ---
 
 ::: {.grid}
 ::: {.g-col-md-8}
 ## Our Mission
 
-**Confluence Analytics** was founded on the principle that ecological science should directly inform and improve real-world management decisions. We specialize in translating complex ecological data into clear, actionable insights that drive sustainable outcomes.
+**Confluence Analytics** was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes.
 :::
 ::: {.g-col-md-4}
-![Environmental Monitoring](https://via.placeholder.com/400x300/1e3a8a/ffffff?text=Environmental+Monitoring){.section-image fig-alt="Environmental monitoring and field research"}
+![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
 :::
 :::
+
+## Who we are
+
+**Dr Galen Holt** is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.
+
+We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
 
 ## Expertise & Background
 
-Our consultancy leverages extensive experience in:
+We leverage extensive experience in:
 
 ### **Data Science & Analysis**
-- Advanced data acquisition methodologies
+- Experimental design to ensure the *right* data for the question
+- Advanced data acquisition and harmonisation methodologies
 - Statistical modelling and analysis
-- Big data processing for ecological systems
-- Quality assurance and validation protocols
+- Big data processing for spatio-temporally varying systems and remote sensing
+- Data governance, quality control, and reproducibility
 
-### **Ecological Response Modelling**
-- Mechanistic understanding of ecosystem processes
-- Multi-scale ecological modelling
-- Species and habitat response analysis  
-- Population dynamics and community ecology
+### **Environmental Response Modelling**
+- Mechanistic understanding of ecosystem and agrisystem processes
+- Multi-scale modelling
+- Assessment of interactive system responses  
+- Population dynamics and biodiversity
 
-### **Water Management Systems**
-- Hydrological modelling and analysis
+### **Water Management**
 - Watershed management strategies
-- Water quality assessment and monitoring
-- Aquatic ecosystem health evaluation
+- Integrated aquatic ecosystem modelling and assessment
+- Development of robust indicators of condition and trend
+- Scenario analysis and future planning
 
 ### **Sustainability & Biodiversity**
 - Conservation planning and implementation
 - Biodiversity impact assessment
-- Ecosystem service valuation
 - Sustainable agriculture practices
+- Linking ecological theory and models to real systems
+
+### **Climate adaptation**
+- Projection of future change
+- Intelligent baselining
+- Scenario comparison across climate and management options
+- Conceptual decision frameworks and ROI
 
 ::: {.grid}
 ::: {.g-col-md-6}
-![Biodiversity Assessment](https://via.placeholder.com/350x250/2563eb/ffffff?text=Biodiversity+Research){.section-image fig-alt="Biodiversity assessment in natural ecosystems"}
+![](images/drone.jpg){.section-image fig-alt="Watersheds and agriculture"}
 :::
 ::: {.g-col-md-6}
-![Watershed Management](https://via.placeholder.com/350x250/3b82f6/ffffff?text=Watershed+Systems){.section-image fig-alt="Watershed management and restoration"}
+![](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
 :::
 :::
 
@@ -56,10 +69,11 @@ Our consultancy leverages extensive experience in:
 ::: {.callout-important appearance="simple"}
 ### Science for Real People, Real Problems
 
-We believe that the best ecological science is that which addresses genuine needs and creates measurable positive impacts. Our approach emphasizes:
+We believe that management of agricultural and natural systems and robust science go hand-in-hand. The best environmental science addresses genuine needs and creates measurable positive impacts, while providing a robust basis for decision making on-farm and in natural systems. Our approach emphasizes:
 
 - **Mechanistic understanding** over pattern detection alone
-- **Robust projections** under varying scenario conditions  
+- **Robust projections** under varying scenarios and conditions
+- **Identifying uncertainty** and its impact on **risk**
 - **Clear communication** to diverse stakeholders
 - **Practical applicability** in real-world settings
 :::
@@ -76,16 +90,8 @@ We partner with government agencies, NGOs, and regulatory bodies to develop scie
 ### Agricultural Operations  
 We support farmers, ranchers, and agricultural companies in:
 - Sustainable production practices
-- Water use optimization
-- Soil health management
+- Water management and irrigation practices
 - Biodiversity conservation on working lands
-
-### Research Institutions
-Collaborating with universities and research organizations on:
-- Applied ecological research
-- Technology transfer and implementation
-- Capacity building and training
-- Publication and dissemination
 
 ## What Makes Us Different
 
@@ -95,7 +101,7 @@ Collaborating with universities and research organizations on:
 
 **Stakeholder-Centered Design**: Every analysis is designed with the end user in mind, ensuring outputs are not just scientifically sound but genuinely useful for decision-making.
 
-**Scale Integration**: We seamlessly work across scales, from plot-level studies to landscape and regional analyses, maintaining coherence and relevance throughout.
+**Scale Integration**: Models, data, and outputs are designed to scale, capturing variability in soils, climate, management, and ecological context so insights hold beyond a single site.
 
 ---
 
