@@ -4,19 +4,18 @@ subtitle: "Let's discuss how we can support your management objectives"
 ---
 
 ::: {.grid}
-
 ::: {.g-col-md-8}
 ## Get In Touch
 
 We'd love to discuss how **Confluence Analytics** can help you achieve your ecological and agricultural management goals whether you have a specific project in mind or are exploring possibilities for collaboration.
 :::
-
+::: {.g-col-md-4}
+![Australian River Systems](images/australia_rivers.png){.section-image fig-alt="Australian river systems and water management"}
+:::
 :::
 
 ::: {.grid}
-
 ::: {.g-col-md-8}
-
 ### **Primary Contact**
 
 **Email**: [info@confluenceanalytics.com.au](mailto:info@confluenceanalytics.com.au)
@@ -24,7 +23,9 @@ We'd love to discuss how **Confluence Analytics** can help you achieve your ecol
 **Response Time**: We typically respond to inquiries within 24 hours during business days.
 
 **Location**: We are based in Eastern Australia, but work with clients across multiple time zones and can accommodate flexible scheduling.
-
+:::
+::: {.g-col-md-4}
+![Water Management Projects](images/mdb_mgmt.png){.section-image fig-alt="Large-scale water and landscape management"}
 :::
 :::
 

@@ -87,9 +87,30 @@ h2 {
   width: 100%;
   max-width: 400px;
   height: auto;
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
   margin: 1rem 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  object-fit: cover;
+}
+
+.section-image:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.25);
+}
+
+/* Ensure images scale nicely in grids */
+.grid .section-image {
+  max-height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .section-image {
+    max-height: 200px;
+    margin: 0.5rem 0;
+  }
 }
 
 .icon-header {
