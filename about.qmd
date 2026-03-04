@@ -31,17 +31,18 @@ We leverage extensive experience in:
 - Big data processing for spatio-temporally varying systems and remote sensing
 - Data governance, quality control, and reproducibility
 
-### **Environmental Response Modelling**
-- Mechanistic understanding of ecosystem and agrisystem processes
+### **Mechanistic Response Modelling**
+- Process-based understanding of ecosystem and agrisystem dynamics
 - Multi-scale modelling
 - Assessment of interactive system responses  
 - Population dynamics and biodiversity
+- Scenario analysis and projections
 
 ### **Water Management**
 - Watershed management strategies
 - Integrated aquatic ecosystem modelling and assessment
 - Development of robust indicators of condition and trend
-- Scenario analysis and future planning
+- Management scenarios and future planning
 
 ### **Sustainability & Biodiversity**
 - Conservation planning and implementation
@@ -55,6 +56,12 @@ We leverage extensive experience in:
 - Scenario comparison across climate and management options
 - Conceptual decision frameworks and ROI
 
+### **Visualisation and communication**
+- Reporting for analysis and compliance
+- Scientific communication
+- User-centred design to meet client needs
+- Dashboards, notebooks, and interactive web apps
+
 ::: {.grid}
 ::: {.g-col-md-6}
 ![](images/drone.jpg){.section-image fig-alt="Watersheds and agriculture"}
@@ -63,6 +70,33 @@ We leverage extensive experience in:
 ![](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
 :::
 :::
+
+## Specialized Capabilities
+
+### Large-Scale System Analysis
+We excel at working across heterogeneous landscapes, integrating data from multiple sources to understand system-wide patterns and responses. Our expertise includes:
+
+- **Multi-scale integration**: From plot to landscape to regional scales
+- **Cross-system analysis**: Agricultural, natural, and mixed-use landscapes  
+- **Temporal dynamics**: Long-term trends and short-term variability
+- **Spatial heterogeneity**: Accounting for landscape complexity
+
+### Scenario Modelling & Projections
+Our mechanistic approach enables robust projections under changing conditions:
+
+- **Climate change impacts**: Temperature, precipitation, and extreme events
+- **Management scenarios**: Alternative practices and policies
+- **Land use changes**: Development, conservation, and restoration
+- **Economic scenarios**: Market conditions and policy changes
+
+### Stakeholder Engagement & Communication
+We specialize in making complex science accessible and actionable:
+
+- **Technical reporting**: Peer-reviewed quality for scientific audiences
+- **Management summaries**: Clear, actionable insights for decision-makers
+- **Public presentations**: Engaging communication for diverse stakeholders
+- **Training & workshops**: Capacity building and knowledge transfer
+- **Data visualisation**: Clear, interpretable, outputs across reporting, web, and interactive formats
 
 ## Our Philosophy
 

@@ -74,7 +74,7 @@ At **Confluence Analytics**, we combine:
 
 Whether you're managing agricultural landscapes, conserving biodiversity, or optimizing water resources, we help you make informed decisions backed by solid science.
 
-[Learn More About Our Services](services.qmd){.btn .btn-primary .btn-lg role="button"}
+[Contact us](contact.qmd){.btn .btn-primary .btn-lg role="button"}
 :::
 
 ---
