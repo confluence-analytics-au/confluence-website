@@ -9,13 +9,12 @@ format:
 ::: {.hero-text-card}
 ![](logo_words-01.png){.hero-logo fig-alt="Confluence Analytics Logo"}
 
-## Insights for a complex and changing world
-
 **Confluence Analytics** specializes in ecological and agricultural consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex science and practical management decisions.
 :::
 ::: {.hero-image-side}
+## Insights for a complex and changing world
+
 ![](images/drone2.jpg){.hero-bg fig-alt="Environmental monitoring and water management"}
-:::
 :::
 :::
 
