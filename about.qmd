@@ -3,101 +3,7 @@ title: "About Confluence Analytics"
 subtitle: "Science for practical management solutions"
 ---
 
-
-## Who we are
-
-**Dr Galen Holt** is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.
-
-We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
-
-:::{.grid}
-
-:::{.g-col-md-6}
-## Expertise & Background
-
-We leverage extensive experience in:
-:::
-
-::: {.g-col-md-4}
-![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
-:::
-:::
-
-### **Data Science & Analysis**
-- Experimental design to ensure the *right* data for the question
-- Advanced data acquisition and harmonisation methodologies
-- Statistical modelling and analysis
-- Big data processing for spatio-temporally varying systems and remote sensing
-- Data governance, quality control, and reproducibility
-
-### **Mechanistic Response Modelling**
-- Process-based understanding of ecosystem and agrisystem dynamics
-- Multi-scale modelling
-- Assessment of interactive system responses  
-- Population dynamics and biodiversity
-- Scenario analysis and projections
-
-### **Water Management**
-- Watershed management strategies
-- Integrated aquatic ecosystem modelling and assessment
-- Development of robust indicators of condition and trend
-- Management scenarios and future planning
-
-### **Sustainability & Biodiversity**
-- Conservation planning and implementation
-- Biodiversity impact assessment
-- Sustainable agriculture practices
-- Linking ecological theory and models to real systems
-
-### **Climate adaptation**
-- Projection of future change
-- Intelligent baselining
-- Scenario comparison across climate and management options
-- Conceptual decision frameworks and ROI
-
-### **Visualisation and communication**
-- Reporting for analysis and compliance
-- Scientific communication
-- User-centred design to meet client needs
-- Dashboards, notebooks, and interactive web apps
-
-::: {.grid}
-::: {.g-col-md-6}
-![](images/drone.jpg){.section-image fig-alt="Watersheds and agriculture"}
-:::
-::: {.g-col-md-6}
-![](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
-:::
-:::
-
-## Specialized Capabilities
-
-### Large-Scale System Analysis
-We excel at working across heterogeneous landscapes, integrating data from multiple sources to understand system-wide patterns and responses. Our expertise includes:
-
-- **Multi-scale integration**: From plot to landscape to regional scales
-- **Cross-system analysis**: Agricultural, natural, and mixed-use landscapes  
-- **Temporal dynamics**: Long-term trends and short-term variability
-- **Spatial heterogeneity**: Accounting for landscape complexity
-
-### Scenario Modelling & Projections
-Our mechanistic approach enables robust projections under changing conditions:
-
-- **Climate change impacts**: Temperature, precipitation, and extreme events
-- **Management scenarios**: Alternative practices and policies
-- **Land use changes**: Development, conservation, and restoration
-- **Economic scenarios**: Market conditions and policy changes
-
-### Stakeholder Engagement & Communication
-We specialize in making complex science accessible and actionable:
-
-- **Technical reporting**: Peer-reviewed quality for scientific audiences
-- **Management summaries**: Clear, actionable insights for decision-makers
-- **Public presentations**: Engaging communication for diverse stakeholders
-- **Training & workshops**: Capacity building and knowledge transfer
-- **Data visualisation**: Clear, interpretable, outputs across reporting, web, and interactive formats
-
-## Our Philosophy
+## Our Philosophy & Approach
 
 ::: {.callout-important appearance="simple"}
 ### Science for Real People, Real Problems
@@ -111,30 +17,77 @@ We believe that management of agricultural and natural systems and robust scienc
 - **Practical applicability** in real-world settings
 :::
 
-## Target Sectors
+## Who we are
 
-### Management Agencies
-We partner with government agencies, NGOs, and regulatory bodies to develop science-based management strategies for:
-- Protected area management
-- Environmental impact assessment
-- Policy development and implementation
-- Regulatory compliance monitoring
+**Dr Galen Holt** is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.
 
-### Agricultural Operations  
+We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
+
+:::{.grid}
+
+:::{.g-col-md-8}
+## Our Expertise 
+
+We combine deep technical capabilities with specialized methodologies across key domains:
+
+### **Data Science & Mechanistic Modelling**
+- Experimental design to ensure the *right* data for the question
+- Advanced data acquisition, harmonisation, and big data processing
+- Process-based understanding of ecosystem and agrisystem dynamics
+- Multi-scale and scenario modelling with uncertainty quantification
+- Population dynamics, biodiversity, and climate adaptation analysis
+
+### **Environmental & Water Management**
+- Watershed management strategies and integrated ecosystem assessment
+- Sustainable agriculture practices and biodiversity conservation
+- Development of robust indicators, compliance monitoring
+- Cross-system analysis across agricultural, natural, and mixed-use landscapes
+
+### **Communication & Decision Support**
+- User-centred design to meet client needs
+- Scientific communication and stakeholder engagement
+- Interactive dashboards, web apps, and comprehensive reporting
+- Training, workshops, and capacity building
+:::
+
+::: {.g-col-md-4}
+![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
+:::
+:::
+
+::: {.grid}
+::: {.g-col-md-6}
+![](images/drone.jpg){.section-image fig-alt="Watersheds and agriculture"}
+:::
+:::
+
+## Who We Serve & What Makes Us Different
+
+::: {.grid}
+::: {.g-col-md-8}
+### **Management Agencies**
+We partner with government agencies, NGOs, and regulatory bodies for:
+- Protected area management and environmental impact assessment
+- Policy development, implementation, and regulatory compliance monitoring
+
+### **Agricultural Operations**  
 We support farmers, ranchers, and agricultural companies in:
-- Sustainable production practices
-- Water management and irrigation practices
+- Sustainable production practices and water management
 - Biodiversity conservation on working lands
 
-## What Makes Us Different
-
-**Heterogeneous Systems Expertise**: We excel at working across varied landscapes, from agricultural mosaics to complex natural systems, understanding how management actions scale up and interact.
-
-**Mechanism-Based Approach**: Rather than relying solely on correlative relationships, we dig deep to understand *why* systems respond the way they do, enabling more reliable predictions.
-
-**Stakeholder-Centered Design**: Every analysis is designed with the end user in mind, ensuring outputs are not just scientifically sound but genuinely useful for decision-making.
-
-**Scale Integration**: Models, data, and outputs are designed to scale, capturing variability in soils, climate, management, and ecological context so insights hold beyond a single site.
+### **What sets us apart:**
+- **Heterogeneous Systems Expertise**: Excellence across varied landscapes, understanding how management actions scale and interact
+- **Mechanism-Based Approach**: Deep understanding of *why* systems respond, enabling reliable predictions
+- **Stakeholder-Centered Design**: Every analysis designed for practical decision-making
+- **Scale Integration**: Models and outputs designed to capture variability across soils, climate, management, and ecological contexts
+:::
+::: {.g-col-md-4}
+![](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
+:::
+::: {.g-col-md-4}
+![](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape"}
+:::
+:::
 
 ---
 

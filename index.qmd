@@ -14,6 +14,10 @@ format:
 
 :::
 
+## Our Mission
+
+**Confluence Analytics** was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes.
+
 ## What Sets Us Apart
 
 ::: {.grid}
