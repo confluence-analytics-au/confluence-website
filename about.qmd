@@ -3,16 +3,6 @@ title: "About Confluence Analytics"
 subtitle: "Science for practical management solutions"
 ---
 
-::: {.grid}
-::: {.g-col-md-8}
-## Our Mission
-
-**Confluence Analytics** was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes.
-:::
-::: {.g-col-md-4}
-![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
-:::
-:::
 
 ## Who we are
 
@@ -20,9 +10,18 @@ subtitle: "Science for practical management solutions"
 
 We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
 
+:::{.grid}
+
+:::{.g-col-md-6}
 ## Expertise & Background
 
 We leverage extensive experience in:
+:::
+
+::: {.g-col-md-4}
+![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
+:::
+:::
 
 ### **Data Science & Analysis**
 - Experimental design to ensure the *right* data for the question
