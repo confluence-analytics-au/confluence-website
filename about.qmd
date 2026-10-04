@@ -1,92 +1,79 @@
 ---
-title: "About Confluence Analytics"
-subtitle: "Science for practical management solutions"
+title: "About"
 ---
 
-## Our Philosophy & Approach
+[Confluence Analytics is a Geelong-based consultancy that builds models, analyses and tools for managing water, agriculture and ecosystems. Our clients include government agencies, catchment management authorities and agricultural industry groups.]{.lead}
 
-::: {.callout-note appearance="simple"}
-### Science for Real People, Real Problems
+## How we work
 
-We believe that management of agricultural and natural systems and robust science go hand-in-hand. The best environmental science addresses genuine needs and creates measurable positive impacts, while providing a robust basis for decision making on-farm and in natural systems. Our approach emphasizes:
+We develop robust models and analyses that target the needs of management decision makers. We work closely with managers so that our outputs are scientifically grounded, interpretable, and push management capabilities forward.
 
-- **Mechanistic understanding** over pattern detection alone
-- **Robust projections** under varying scenarios and conditions
-- **Identifying uncertainty** and its impact on **risk**
-- **Clear communication** to diverse stakeholders
-- **Practical applicability** in real-world settings
-:::
+We accentuate scenario modelling and uncertainty. We identify knowledge gaps, assumptions and real environmental variability, so decision makers can see the range of possible outcomes. Our models represent the mechanisms behind ecological and agricultural responses, which makes them more reliable when conditions move outside the historical record.
 
-![](images/drone.jpg){.hero-image fig-alt="Advanced data analysis and environmental monitoring"}
+Our tools follow best practice for reproducible analysis. We document our methods so clients can extend and reuse the work.
 
-## Who we are
-
-**Dr Galen Holt** is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.
-
-We work closely with **Dr Rebecca Lester** at partner consultancy [Black Swan Insights](https://www.blackswaninsights.com.au/), who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures.
-
-:::{.grid}
-:::{.g-col-md-8}
-## Our Expertise 
-
-We combine deep technical capabilities with specialized methodologies across key domains:
-
-### **Data Science & Mechanistic Modelling**
-- Experimental design to ensure the *right* data for the question
-- Advanced data acquisition, harmonisation, and big data processing
-- Process-based understanding of ecosystem and agrisystem dynamics
-- Multi-scale and scenario modelling with uncertainty quantification
-- Population dynamics, biodiversity, and climate adaptation analysis
-
-### **Environmental & Water Management**
-- Watershed management strategies and integrated ecosystem assessment
-- Sustainable agriculture practices and biodiversity conservation
-- Development of robust indicators, compliance monitoring
-- Cross-system analysis across agricultural, natural, and mixed-use landscapes
-
-### **Communication & Decision Support**
-- User-centred design to meet client needs
-- Scientific communication and stakeholder engagement
-- Interactive dashboards, web apps, and comprehensive reporting
-- Training, workshops, and capacity building
-:::
-
-::: {.g-col-md-4}
-![](images/australia_rivers.png){.section-image fig-alt="Australian rivers"}
-
-![](images/ag-coast.jpg){.section-image fig-alt="Agricultural landscape"}
-
-![](images/steavenson.jpg){.section-image fig-alt="Agricultural landscape"}
-:::
-:::
-
-## Who We Serve & What Makes Us Different
+## People
 
 ::: {.grid}
-::: {.g-col-md-8}
-### **Management Agencies**
-We partner with government agencies, NGOs, and regulatory bodies for:
-- Protected area management and environmental impact assessment
-- Policy development, implementation, and regulatory compliance monitoring
+::: {.g-col-12 .g-col-md-8}
+### Dr Galen Holt, Director
 
-### **Agricultural Operations**  
-We support farmers, ranchers, and agricultural companies in:
-- Sustainable production practices and water management
-- Biodiversity conservation on working lands
+Galen is a quantitative ecologist with more than 15 years of experience applying data analysis and modelling to the management of rivers, wetlands and agricultural landscapes. He holds a PhD in quantitative ecology from the University of Arizona and is a Research Fellow at Deakin University's Centre for Regional and Rural Futures.
 
-### **What sets us apart:**
-- **Heterogeneous Systems Expertise**: Excellence across varied landscapes, understanding how management actions scale and interact
-- **Mechanism-Based Approach**: Deep understanding of *why* systems respond, enabling reliable predictions
-- **Stakeholder-Centered Design**: Every analysis designed for practical decision-making
-- **Scale Integration**: Models and outputs designed to capture variability across soils, climate, management, and ecological contexts
+Galen led development of HydroBOT, the toolkit for assessing climate adaptation in the Murray–Darling Basin. He has published 19 peer-reviewed papers and 17 government reports on biodiversity, environmental flows and climate adaptation.
+
+### Partners
+
+We bring in specialist partners for each project and build the team around the skills the work needs. We work most often with Prof Rebecca Lester of [Black Swan Insights](https://www.blackswaninsights.com.au/), a freshwater ecologist with more than 20 years of experience at the intersection of environmental science and agriculture. Rebecca has led national programs on drought resilience and agribusiness, and she is accredited in Life Cycle Assessment.
 :::
-::: {.g-col-md-4}
-![Water Management](images/mdb_mgmt.png){.section-image fig-alt="Watershed management"}
 
-![Agricultural Systems](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape"}
+::: {.g-col-12 .g-col-md-4}
+![](images/web/forest-stream.jpg){.photo .photo-tall fig-alt="A forested upland stream in Victoria"}
 :::
 :::
 
----
+## Expertise
 
-*Ready to see how our approach can benefit your organization? [Get in touch](contact.qmd) to discuss your specific needs.*
+::: {.grid .card-grid}
+
+::: {.g-col-12 .g-col-md-4 .service}
+### Data and modelling
+- Monitoring and experimental design
+- Data acquisition and harmonisation, from gauge APIs to remote sensing
+- Process-based models of ecosystems and agrisystems
+- Scenario modelling and uncertainty quantification
+:::
+
+::: {.g-col-12 .g-col-md-4 .service}
+### Water and environment
+- Environmental flows and catchment assessment
+- Fish, waterbirds and wetland vegetation
+- Irrigated agriculture and land-use change
+- Natural capital
+- Indicators and condition assessment
+:::
+
+::: {.g-col-12 .g-col-md-4 .service}
+### Decision support
+- Dashboards, web apps and reporting
+- Documented, tested, reproducible software
+- Workshops, training and capacity building
+:::
+
+:::
+
+## Software
+
+Galen's open-source software includes:
+
+- [HydroBOT](https://mdbauth.github.io/HydroBOT_website/) assesses ecological, social and economic responses to climate change and adaptation in the Murray–Darling Basin.
+- [hydrogauge](https://github.com/galenholt/hydrogauge) provides R access to the water-data services run by Australian states.
+- [eFlowEval](https://github.com/galenholt/eFlowEval) assesses ecological outcomes of environmental water from wetland to basin scale.
+
+Galen's publications are listed on [ORCID](https://orcid.org/0000-0002-7455-9275).
+
+::: {.cta}
+## Talk to us about a project
+
+[Get in touch](contact.qmd){.btn .btn-primary}
+:::

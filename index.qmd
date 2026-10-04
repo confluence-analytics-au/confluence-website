@@ -1,94 +1,53 @@
 ---
-format:
-  html:
-    title-block-banner: false
+pagetitle: "Confluence Analytics"
+description: "Quantitative modelling and decision support for water, agriculture and ecosystems."
 ---
 
-::: {.hero-section}
-::: {.hero-content}
-::: {.hero-text-card}
-![](logo_words-01.png){.hero-logo fig-alt="Confluence Analytics Logo"}
+::: {.hero .column-screen style="background-image: url('images/web/river-valley.jpg');"}
+::: {.hero-inner}
+```{=html}
+<!-- Quarto lifts any h1 into its title block, so this uses an ARIA heading -->
+<p class="hero-title" role="heading" aria-level="1">Insights for a complex and changing world</p>
+```
 
-**Confluence Analytics** specializes in ecological and agricultural consulting with a focus on **water management**, **sustainability**, and **biodiversity conservation**. We bridge the gap between complex science and practical management decisions.
-:::
-::: {.hero-image-side}
+We build models, analyses and decision-support tools for water, agriculture and ecosystems. Our work helps managers compare options and see the range of likely outcomes.
 
-## Insights for a complex and changing world
-
-![](images/drone2.jpg){.hero-bg fig-alt="Environmental monitoring and water management"}
-:::
+[Get in touch](contact.qmd){.btn .btn-light .btn-lg}
 :::
 :::
 
-## Our Mission
+## What we do
 
-**Confluence Analytics** was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes.
+Confluence Analytics works with government agencies, catchment management authorities and agricultural groups. Their problems usually involve messy data, highly variable systems and decisions with real consequences.
 
-## What Sets Us Apart
+::: {.grid .card-grid}
 
-::: {.grid}
-::: {.g-col-md-8}
-
-::: {.grid}
-
-::: {.g-col-md-6 .feature-box}
-### **Mechanistic Understanding**
-We don't just identify patterns, we understand the underlying mechanisms driving system responses. This approach identifies the *why* and enables more robust projections under different scenarios.
+::: {.g-col-12 .g-col-md-6 .service}
+### Scenario and climate adaptation modelling
+We model how rivers, wetlands and farms respond to climate change, water management and adaptation options. Our models represent the mechanisms behind each response, so their projections are more reliable outside the historical record.
 :::
 
-::: {.g-col-md-6 .feature-box}
-### **Scale Expertise**  
-From local watersheds to regional farming systems and national ecosystems, we excel at modelling complex outcomes across large, heterogeneous systems while maintaining scientific rigour.
+::: {.g-col-12 .g-col-md-6 .service}
+### Data integration and analysis
+We bring together gauge records, remote sensing, hydrological model output and field data, and harmonise them into a usable evidence base. We choose statistical methods to fit the question, and we develop new ones when standard methods fall short.
 :::
 
-::: {.g-col-md-6 .feature-box}
-### **Actionable Insights**
-Our outputs are scientifically robust yet accessible, designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.
+::: {.g-col-12 .g-col-md-6 .service}
+### Decision-support tools
+We build dashboards, web apps and reproducible software that managers and their analysts can use and extend. Our code is documented and tested, and we release it openly where the client allows.
 :::
 
-::: {.g-col-md-6 .feature-box}
-### **Real-World Focus**
-We ensure our analysis addresses genuine needs from real people, delivering solutions that make a measurable difference in the field.
+::: {.g-col-12 .g-col-md-6 .service}
+### Ecological risk and condition assessment
+We assess condition, risk and benefit for fish, waterbirds, vegetation and other ecological values. Each assessment states its assumptions and the uncertainty around its conclusions.
 :::
 
 :::
 
+::: {.cta}
+## Talk to us about a project
+
+We are happy to discuss work at any stage, from an early idea to a defined scope.
+
+[Get in touch](contact.qmd){.btn .btn-primary}
 :::
-::: {.g-col-md-4}
-![Water Management](images/steavenson.jpg){.section-image fig-alt="Water management and monitoring systems"}
-
-![Agricultural Landscapes](images/ag-landscape.jpg){.section-image fig-alt="Agricultural landscape showing sustainable farming practices"}
-:::
-:::
-
-## Our Approach
-
-::: {.grid}
-::: {.g-col-md-8}
-
-At **Confluence Analytics**, we combine:
-
-- **Advanced data acquisition and analysis** techniques
-- **Mechanistic response modelling** at multiple scales
-- **Scenario modelling** for robust projections of potential actions and future conditions 
-- **Clear communication** of complex scientific findings
-
-:::
-::: {.g-col-md-4}
-![Data and Modelling](images/all_anaes.png){.section-image fig-alt="Advanced data analysis and modelling techniques"}
-:::
-:::
-
-::: {.callout-note appearance="simple"}
-## Ready to Transform Your Management Strategy?
-
-Whether you're managing agricultural landscapes, conserving biodiversity, or optimizing water resources, we help you make informed decisions backed by solid science.
-
-[Contact us](contact.qmd){.btn .btn-primary .btn-lg role="button"}
-:::
-
----
-
-### Trusted by Management Agencies and Agricultural Operations
-
-We work with diverse clients who need scientifically-grounded solutions for complex environmental challenges. Our interdisciplinary approach ensures that ecological insights translate into practical management strategies.

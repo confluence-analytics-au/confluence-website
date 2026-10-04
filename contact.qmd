@@ -1,34 +1,17 @@
 ---
-title: "Contact Us"
-subtitle: "Let's discuss how we can support your management objectives"
+title: "Contact"
 ---
 
 ::: {.grid}
-::: {.g-col-md-8}
-## Get In Touch
+::: {.g-col-12 .g-col-md-7}
+[We are happy to discuss a project at any stage, whether you have a defined scope or an early idea. Email is the best way to reach us.]{.lead}
 
-We'd love to discuss how **Confluence Analytics** can help you achieve your ecological and agricultural management goals whether you have a specific project in mind or are exploring possibilities for collaboration.
-:::
-::: {.g-col-md-4}
-![](images/australia_rivers.png){.section-image fig-alt="Australian river systems and water management"}
-:::
+[info@confluenceanalytics.com.au](mailto:info@confluenceanalytics.com.au){.btn .btn-primary .btn-lg}
+
+Confluence Analytics is based in Geelong, Victoria, and works with clients across Australia.
 :::
 
-::: {.grid}
-::: {.g-col-md-8}
-### **Primary Contact**
-
-**Email**: [info@confluenceanalytics.com.au](mailto:info@confluenceanalytics.com.au)
-
-**Response Time**: We typically respond to inquiries within 24 hours during business days.
-
-**Location**: We are based in Eastern Australia, but work with clients across multiple time zones and can accommodate flexible scheduling.
-:::
-::: {.g-col-md-4}
-![](images/ag-landscape.jpg){.section-image fig-alt="Large-scale water and landscape management"}
+::: {.g-col-12 .g-col-md-5}
+![](images/web/coastal-farm.jpg){.photo fig-alt="Farmland on the Victorian coast"}
 :::
 :::
-
----
-
-*Confluence Analytics • Professional Ecological and Agricultural Management Consulting*
