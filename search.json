@@ -1,79 +1,72 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Confluence Analytics",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "NoteScience for Real People, Real Problems\n\n\n\nWe believe that management of agricultural and natural systems and robust science go hand-in-hand. The best environmental science addresses genuine needs and creates measurable positive impacts, while providing a robust basis for decision making on-farm and in natural systems. Our approach emphasizes:\n\nMechanistic understanding over pattern detection alone\nRobust projections under varying scenarios and conditions\nIdentifying uncertainty and its impact on risk\nClear communication to diverse stakeholders\nPractical applicability in real-world settings"
-  },
-  {
-    "objectID": "about.html#our-philosophy-approach",
-    "href": "about.html#our-philosophy-approach",
-    "title": "About Confluence Analytics",
-    "section": "",
-    "text": "NoteScience for Real People, Real Problems\n\n\n\nWe believe that management of agricultural and natural systems and robust science go hand-in-hand. The best environmental science addresses genuine needs and creates measurable positive impacts, while providing a robust basis for decision making on-farm and in natural systems. Our approach emphasizes:\n\nMechanistic understanding over pattern detection alone\nRobust projections under varying scenarios and conditions\nIdentifying uncertainty and its impact on risk\nClear communication to diverse stakeholders\nPractical applicability in real-world settings"
-  },
-  {
-    "objectID": "about.html#who-we-are",
-    "href": "about.html#who-we-are",
-    "title": "About Confluence Analytics",
-    "section": "Who we are",
-    "text": "Who we are\nDr Galen Holt is the founder and director of Confluence Analytics. He is a leading expert in quantitative environmental modelling, with over 15 years experience connecting cutting-edge data analysis and modelling to sustainability, biodiversity, and management outcomes. His work focuses on developing innovative tools that translate complex ecological responses to climate and management interventions into actionable insights for decision-makers. With a strong foundation in ecological theory, spatial-temporal modelling, and user-centric design, Dr Holt has pioneered flexible frameworks that account for uncertainty, nonlinear feedbacks, and landscape heterogeneity—particularly in the context of climate adaptation in agricultural and aquatic systems. His contributions include the HydroBOT Toolkit and the Climate Adaptation Toolkit Workflow, both designed to support strategic planning under climate change. A prolific researcher and collaborator with institutions such as CSIRO, Deakin University, and the Murray-Darling Basin Authority, Dr Holt combines scientific rigour with practical impact, contributing to sustainable land and water management initiatives.\nWe work closely with Dr Rebecca Lester at partner consultancy Black Swan Insights, who brings over 20 years’ of experience at the intersection of environmental science and agriculture. A nationally recognised freshwater ecologist and research leader, she specialises in climate adaptation, sustainable water management, and stakeholder-driven innovation. Dr Lester has led major national initiatives focused on drought resilience and agribusiness, and is accredited in Life Cycle Assessment. Her collaborative approach and strategic insight make her a trusted advisor to government, industry, and community partners working toward resilient, sustainable futures."
-  },
-  {
-    "objectID": "about.html#our-expertise",
-    "href": "about.html#our-expertise",
-    "title": "About Confluence Analytics",
-    "section": "Our Expertise",
-    "text": "Our Expertise\nWe combine deep technical capabilities with specialized methodologies across key domains:\n\nData Science & Mechanistic Modelling\n\nExperimental design to ensure the right data for the question\nAdvanced data acquisition, harmonisation, and big data processing\nProcess-based understanding of ecosystem and agrisystem dynamics\nMulti-scale and scenario modelling with uncertainty quantification\nPopulation dynamics, biodiversity, and climate adaptation analysis\n\n\n\nEnvironmental & Water Management\n\nWatershed management strategies and integrated ecosystem assessment\nSustainable agriculture practices and biodiversity conservation\nDevelopment of robust indicators, compliance monitoring\nCross-system analysis across agricultural, natural, and mixed-use landscapes\n\n\n\nCommunication & Decision Support\n\nUser-centred design to meet client needs\nScientific communication and stakeholder engagement\nInteractive dashboards, web apps, and comprehensive reporting\nTraining, workshops, and capacity building"
-  },
-  {
-    "objectID": "about.html#who-we-serve-what-makes-us-different",
-    "href": "about.html#who-we-serve-what-makes-us-different",
-    "title": "About Confluence Analytics",
-    "section": "Who We Serve & What Makes Us Different",
-    "text": "Who We Serve & What Makes Us Different\n\n\n\nManagement Agencies\nWe partner with government agencies, NGOs, and regulatory bodies for: - Protected area management and environmental impact assessment - Policy development, implementation, and regulatory compliance monitoring\n\n\nAgricultural Operations\nWe support farmers, ranchers, and agricultural companies in: - Sustainable production practices and water management - Biodiversity conservation on working lands\n\n\nWhat sets us apart:\n\nHeterogeneous Systems Expertise: Excellence across varied landscapes, understanding how management actions scale and interact\nMechanism-Based Approach: Deep understanding of why systems respond, enabling reliable predictions\nStakeholder-Centered Design: Every analysis designed for practical decision-making\nScale Integration: Models and outputs designed to capture variability across soils, climate, management, and ecological contexts\n\n\n\n\n\n\n\nWater Management\n\n\n\n\n\nAgricultural Systems\n\n\n\n\n\nReady to see how our approach can benefit your organization? Get in touch to discuss your specific needs."
+    "text": "We are happy to discuss a project at any stage, whether you have a defined scope or an early idea. Email is the best way to reach us.\ninfo@confluenceanalytics.com.au\nConfluence Analytics is based in Geelong, Victoria, and works with clients across Australia."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Confluence Analytics",
     "section": "",
-    "text": "Confluence Analytics specializes in ecological and agricultural consulting with a focus on water management, sustainability, and biodiversity conservation. We bridge the gap between complex science and practical management decisions."
+    "text": "Insights for a complex and changing world\nWe build models, analyses and decision-support tools for water, agriculture and ecosystems. Our work helps managers compare options and see the range of likely outcomes.\nGet in touch"
   },
   {
-    "objectID": "index.html#our-mission",
-    "href": "index.html#our-mission",
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
     "title": "Confluence Analytics",
-    "section": "Our Mission",
-    "text": "Our Mission\nConfluence Analytics was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes."
+    "section": "What we do",
+    "text": "What we do\nConfluence Analytics works with government agencies, catchment management authorities and agricultural groups. Their problems usually involve messy data, highly variable systems and decisions with real consequences.\n\n\nScenario and climate adaptation modelling\nWe model how rivers, wetlands and farms respond to climate change, water management and adaptation options. Our models represent the mechanisms behind each response, so their projections are more reliable outside the historical record.\n\n\nData integration and analysis\nWe bring together gauge records, remote sensing, hydrological model output and field data, and harmonise them into a usable evidence base. We choose statistical methods to fit the question, and we develop new ones when standard methods fall short.\n\n\nDecision-support tools\nWe build dashboards, web apps and reproducible software that managers and their analysts can use and extend. Our code is documented and tested, and we release it openly where the client allows.\n\n\nEcological risk and condition assessment\nWe assess condition, risk and benefit for fish, waterbirds, vegetation and other ecological values. Each assessment states its assumptions and the uncertainty around its conclusions."
   },
   {
-    "objectID": "index.html#what-sets-us-apart",
-    "href": "index.html#what-sets-us-apart",
+    "objectID": "index.html#talk-to-us-about-a-project",
+    "href": "index.html#talk-to-us-about-a-project",
     "title": "Confluence Analytics",
-    "section": "What Sets Us Apart",
-    "text": "What Sets Us Apart\n\n\n\n\nMechanistic Understanding\nWe don’t just identify patterns, we understand the underlying mechanisms driving system responses. This approach identifies the why and enables more robust projections under different scenarios.\n\n\nScale Expertise\nFrom local watersheds to regional farming systems and national ecosystems, we excel at modelling complex outcomes across large, heterogeneous systems while maintaining scientific rigour.\n\n\nActionable Insights\nOur outputs are scientifically robust yet accessible, designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.\n\n\nReal-World Focus\nWe ensure our analysis addresses genuine needs from real people, delivering solutions that make a measurable difference in the field.\n\n\n\n\n\n\n\nWater Management\n\n\n\n\n\nAgricultural Landscapes"
+    "section": "Talk to us about a project",
+    "text": "Talk to us about a project\nWe are happy to discuss work at any stage, from an early idea to a defined scope.\nGet in touch"
   },
   {
-    "objectID": "index.html#our-approach",
-    "href": "index.html#our-approach",
-    "title": "Confluence Analytics",
-    "section": "Our Approach",
-    "text": "Our Approach\n\n\nAt Confluence Analytics, we combine:\n\nAdvanced data acquisition and analysis techniques\nMechanistic response modelling at multiple scales\nScenario modelling for robust projections of potential actions and future conditions\nClear communication of complex scientific findings\n\n\n\n\n\n\nData and Modelling\n\n\n\n\n\n\n\n\n\n\nNoteReady to Transform Your Management Strategy?\n\n\n\nWhether you’re managing agricultural landscapes, conserving biodiversity, or optimizing water resources, we help you make informed decisions backed by solid science.\nContact us\n\n\n\n\nTrusted by Management Agencies and Agricultural Operations\nWe work with diverse clients who need scientifically-grounded solutions for complex environmental challenges. Our interdisciplinary approach ensures that ecological insights translate into practical management strategies."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "We’d love to discuss how Confluence Analytics can help you achieve your ecological and agricultural management goals whether you have a specific project in mind or are exploring possibilities for collaboration.\nConfluence Analytics • Professional Ecological and Agricultural Management Consulting"
+    "text": "Confluence Analytics is a Geelong-based consultancy that builds models, analyses and tools for managing water, agriculture and ecosystems. Our clients include government agencies, catchment management authorities and agricultural industry groups."
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact Us",
-    "section": "",
-    "text": "We’d love to discuss how Confluence Analytics can help you achieve your ecological and agricultural management goals whether you have a specific project in mind or are exploring possibilities for collaboration."
+    "objectID": "about.html#how-we-work",
+    "href": "about.html#how-we-work",
+    "title": "About",
+    "section": "How we work",
+    "text": "How we work\nWe develop robust models and analyses that target the needs of management decision makers. We work closely with managers so that our outputs are scientifically grounded, interpretable, and push management capabilities forward.\nWe accentuate scenario modelling and uncertainty. We identify knowledge gaps, assumptions and real environmental variability, so decision makers can see the range of possible outcomes. Our models represent the mechanisms behind ecological and agricultural responses, which makes them more reliable when conditions move outside the historical record.\nOur tools follow best practice for reproducible analysis. We document our methods so clients can extend and reuse the work."
+  },
+  {
+    "objectID": "about.html#people",
+    "href": "about.html#people",
+    "title": "About",
+    "section": "People",
+    "text": "People\n\n\n\nDr Galen Holt, Director\nGalen is a quantitative ecologist with more than 15 years of experience applying data analysis and modelling to the management of rivers, wetlands and agricultural landscapes. He holds a PhD in quantitative ecology from the University of Arizona and is a Research Fellow at Deakin University’s Centre for Regional and Rural Futures.\nGalen led development of HydroBOT, the toolkit for assessing climate adaptation in the Murray–Darling Basin. He has published 19 peer-reviewed papers and 17 government reports on biodiversity, environmental flows and climate adaptation.\n\n\nPartners\nWe bring in specialist partners for each project and build the team around the skills the work needs. We work most often with Prof Rebecca Lester of Black Swan Insights, a freshwater ecologist with more than 20 years of experience at the intersection of environmental science and agriculture. Rebecca has led national programs on drought resilience and agribusiness, and she is accredited in Life Cycle Assessment."
+  },
+  {
+    "objectID": "about.html#expertise",
+    "href": "about.html#expertise",
+    "title": "About",
+    "section": "Expertise",
+    "text": "Expertise\n\n\nData and modelling\n\nMonitoring and experimental design\nData acquisition and harmonisation, from gauge APIs to remote sensing\nProcess-based models of ecosystems and agrisystems\nScenario modelling and uncertainty quantification\n\n\n\nWater and environment\n\nEnvironmental flows and catchment assessment\nFish, waterbirds and wetland vegetation\nIrrigated agriculture and land-use change\nNatural capital\nIndicators and condition assessment\n\n\n\nDecision support\n\nDashboards, web apps and reporting\nDocumented, tested, reproducible software\nWorkshops, training and capacity building"
+  },
+  {
+    "objectID": "about.html#software",
+    "href": "about.html#software",
+    "title": "About",
+    "section": "Software",
+    "text": "Software\nGalen’s open-source software includes:\n\nHydroBOT assesses ecological, social and economic responses to climate change and adaptation in the Murray–Darling Basin.\nhydrogauge provides R access to the water-data services run by Australian states.\neFlowEval assesses ecological outcomes of environmental water from wetland to basin scale.\n\nGalen’s publications are listed on ORCID."
+  },
+  {
+    "objectID": "about.html#talk-to-us-about-a-project",
+    "href": "about.html#talk-to-us-about-a-project",
+    "title": "About",
+    "section": "Talk to us about a project",
+    "text": "Talk to us about a project\nGet in touch"
   }
 ]

@@ -2,17 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Quantitative modelling and decision support for water, agriculture and ecosystems.">
 
 <title>Confluence Analytics</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -25,36 +32,19 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<link href="./images/web/logo-mark.png" rel="icon" type="image/png">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./logo-01.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2e3543371e4f7220b1cf65411cce5df8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c03a714eba1c064fd13f488945eff723.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -72,10 +62,16 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Confluence Analytics">
+<meta property="og:description" content="Quantitative modelling and decision support for water, agriculture and ecosystems.">
+<meta property="og:image" content="https://confluenceanalytics.com.au/images/web/river-valley.jpg">
+<meta property="og:site_name" content="Confluence Analytics">
+<meta name="twitter:title" content="Confluence Analytics">
+<meta name="twitter:description" content="Quantitative modelling and decision support for water, agriculture and ecosystems.">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -83,16 +79,15 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo_words-01.png" alt="Confluence Analytics Logo" class="navbar-logo light-content">
-    <img src="./logo_words-01.png" alt="Confluence Analytics Logo" class="navbar-logo dark-content">
+    <img src="./images/web/logo-words.png" alt="Confluence Analytics" class="navbar-logo light-content">
+    <img src="./images/web/logo-words.png" alt="Confluence Analytics" class="navbar-logo dark-content">
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
@@ -106,13 +101,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="mailto:info@confluenceanalytics.com.au"> <i class="bi bi-envelope" role="img">
-</i> 
-<span class="menu-text">Email</span></a>
-  </li>  
-</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -120,127 +108,53 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#our-mission" id="toc-our-mission" class="nav-link active" data-scroll-target="#our-mission">Our Mission</a></li>
-  <li><a href="#what-sets-us-apart" id="toc-what-sets-us-apart" class="nav-link" data-scroll-target="#what-sets-us-apart">What Sets Us Apart</a></li>
-  <li><a href="#our-approach" id="toc-our-approach" class="nav-link" data-scroll-target="#our-approach">Our Approach</a>
-  <ul class="collapse">
-  <li><a href="#trusted-by-management-agencies-and-agricultural-operations" id="toc-trusted-by-management-agencies-and-agricultural-operations" class="nav-link" data-scroll-target="#trusted-by-management-agencies-and-agricultural-operations">Trusted by Management Agencies and Agricultural Operations</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content page-columns page-full" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="hero-section">
-<div class="hero-content">
-<div class="hero-text-card">
-<p><img src="logo_words-01.png" class="hero-logo img-fluid" alt="Confluence Analytics Logo"></p>
-<p><strong>Confluence Analytics</strong> specializes in ecological and agricultural consulting with a focus on <strong>water management</strong>, <strong>sustainability</strong>, and <strong>biodiversity conservation</strong>. We bridge the gap between complex science and practical management decisions.</p>
+<div class="hero column-screen" style="background-image: url('images/web/river-valley.jpg');">
+<div class="hero-inner">
+<!-- Quarto lifts any h1 into its title block, so this uses an ARIA heading -->
+<p class="hero-title" role="heading" aria-level="1">Insights for a complex and changing world</p>
+<p>We build models, analyses and decision-support tools for water, agriculture and ecosystems. Our work helps managers compare options and see the range of likely outcomes.</p>
+<p><a href="./contact.html" class="btn btn-light btn-lg">Get in touch</a></p>
 </div>
-<section id="insights-for-a-complex-and-changing-world" class="level2 hero-image-side">
-<h2 class="anchored" data-anchor-id="insights-for-a-complex-and-changing-world">Insights for a complex and changing world</h2>
-<p><img src="images/drone2.jpg" class="hero-bg img-fluid" alt="Environmental monitoring and water management"></p>
+</div>
+<section id="what-we-do" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-do">What we do</h2>
+<p>Confluence Analytics works with government agencies, catchment management authorities and agricultural groups. Their problems usually involve messy data, highly variable systems and decisions with real consequences.</p>
+<div class="grid card-grid">
+<section id="scenario-and-climate-adaptation-modelling" class="level3 g-col-12 g-col-md-6 service">
+<h3 class="anchored" data-anchor-id="scenario-and-climate-adaptation-modelling">Scenario and climate adaptation modelling</h3>
+<p>We model how rivers, wetlands and farms respond to climate change, water management and adaptation options. Our models represent the mechanisms behind each response, so their projections are more reliable outside the historical record.</p>
+</section>
+<section id="data-integration-and-analysis" class="level3 g-col-12 g-col-md-6 service">
+<h3 class="anchored" data-anchor-id="data-integration-and-analysis">Data integration and analysis</h3>
+<p>We bring together gauge records, remote sensing, hydrological model output and field data, and harmonise them into a usable evidence base. We choose statistical methods to fit the question, and we develop new ones when standard methods fall short.</p>
+</section>
+<section id="decision-support-tools" class="level3 g-col-12 g-col-md-6 service">
+<h3 class="anchored" data-anchor-id="decision-support-tools">Decision-support tools</h3>
+<p>We build dashboards, web apps and reproducible software that managers and their analysts can use and extend. Our code is documented and tested, and we release it openly where the client allows.</p>
+</section>
+<section id="ecological-risk-and-condition-assessment" class="level3 g-col-12 g-col-md-6 service">
+<h3 class="anchored" data-anchor-id="ecological-risk-and-condition-assessment">Ecological risk and condition assessment</h3>
+<p>We assess condition, risk and benefit for fish, waterbirds, vegetation and other ecological values. Each assessment states its assumptions and the uncertainty around its conclusions.</p>
 </section>
 </div>
-</div>
-<section id="our-mission" class="level2">
-<h2 class="anchored" data-anchor-id="our-mission">Our Mission</h2>
-<p><strong>Confluence Analytics</strong> was founded on the principle that science should directly inform and improve real-world management decisions. We specialize in translating complex environmental data and responses into clear, actionable insights that drive sustainable outcomes.</p>
 </section>
-<section id="what-sets-us-apart" class="level2">
-<h2 class="anchored" data-anchor-id="what-sets-us-apart">What Sets Us Apart</h2>
-<div class="grid">
-<div class="g-col-md-8">
-<div class="grid">
-<section id="mechanistic-understanding" class="level3 g-col-md-6 feature-box">
-<h3 class="anchored" data-anchor-id="mechanistic-understanding"><strong>Mechanistic Understanding</strong></h3>
-<p>We don’t just identify patterns, we understand the underlying mechanisms driving system responses. This approach identifies the <em>why</em> and enables more robust projections under different scenarios.</p>
+<section id="talk-to-us-about-a-project" class="level2 cta">
+<h2 class="anchored" data-anchor-id="talk-to-us-about-a-project">Talk to us about a project</h2>
+<p>We are happy to discuss work at any stage, from an early idea to a defined scope.</p>
+<p><a href="./contact.html" class="btn btn-primary">Get in touch</a></p>
 </section>
-<section id="scale-expertise" class="level3 g-col-md-6 feature-box">
-<h3 class="anchored" data-anchor-id="scale-expertise"><strong>Scale Expertise</strong></h3>
-<p>From local watersheds to regional farming systems and national ecosystems, we excel at modelling complex outcomes across large, heterogeneous systems while maintaining scientific rigour.</p>
-</section>
-<section id="actionable-insights" class="level3 g-col-md-6 feature-box">
-<h3 class="anchored" data-anchor-id="actionable-insights"><strong>Actionable Insights</strong></h3>
-<p>Our outputs are scientifically robust yet accessible, designed to be understandable, interpretable, and actionable by managers and non-scientific stakeholders.</p>
-</section>
-<section id="real-world-focus" class="level3 g-col-md-6 feature-box">
-<h3 class="anchored" data-anchor-id="real-world-focus"><strong>Real-World Focus</strong></h3>
-<p>We ensure our analysis addresses genuine needs from real people, delivering solutions that make a measurable difference in the field.</p>
-</section>
-</div>
-</div>
-<div class="g-col-md-4">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/steavenson.jpg" class="section-image img-fluid figure-img" alt="Water management and monitoring systems"></p>
-<figcaption>Water Management</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/ag-landscape.jpg" class="section-image img-fluid figure-img" alt="Agricultural landscape showing sustainable farming practices"></p>
-<figcaption>Agricultural Landscapes</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="our-approach" class="level2">
-<h2 class="anchored" data-anchor-id="our-approach">Our Approach</h2>
-<div class="grid">
-<div class="g-col-md-8">
-<p>At <strong>Confluence Analytics</strong>, we combine:</p>
-<ul>
-<li><strong>Advanced data acquisition and analysis</strong> techniques</li>
-<li><strong>Mechanistic response modelling</strong> at multiple scales</li>
-<li><strong>Scenario modelling</strong> for robust projections of potential actions and future conditions</li>
-<li><strong>Clear communication</strong> of complex scientific findings</li>
-</ul>
-</div>
-<div class="g-col-md-4">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/all_anaes.png" class="section-image img-fluid figure-img" alt="Advanced data analysis and modelling techniques"></p>
-<figcaption>Data and Modelling</figcaption>
-</figure>
-</div>
-</div>
-</div>
-<div class="callout callout-style-simple callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Ready to Transform Your Management Strategy?
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Whether you’re managing agricultural landscapes, conserving biodiversity, or optimizing water resources, we help you make informed decisions backed by solid science.</p>
-<p><a href="./contact.html" class="btn btn-primary btn-lg" role="button">Contact us</a></p>
-</div>
-</div>
-<hr>
-<section id="trusted-by-management-agencies-and-agricultural-operations" class="level3">
-<h3 class="anchored" data-anchor-id="trusted-by-management-agencies-and-agricultural-operations">Trusted by Management Agencies and Agricultural Operations</h3>
-<p>We work with diverse clients who need scientifically-grounded solutions for complex environmental challenges. Our interdisciplinary approach ensures that ecological insights translate into practical management strategies.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -652,16 +566,16 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Confluence Analytics. All rights reserved.</p>
+<p>© 2026 Confluence Analytics Pty Ltd · ABN 30 689 290 579</p>
 </div>   
     <div class="nav-footer-center">
-<p>Professional ecological and agricultural management consulting</p>
-</div>
+      &nbsp;
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
     <a class="nav-link" href="mailto:info@confluenceanalytics.com.au">
-      <i class="bi bi-envelope" role="img">
+      <i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
     </a>
   </li>  
